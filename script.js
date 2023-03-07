@@ -25,8 +25,6 @@ setInterval(() => {
 
 }, 1000);
 
-getWeatherData()
-
 function getWeatherData () {
   // if ('geolocation' in navigator) {
    
@@ -40,10 +38,10 @@ function getWeatherData () {
         })
     })
 // } else {
-    
+    console.log('Geolocation is not enabled');
  }
 
-
+getWeatherData();
 
 
 
