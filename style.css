@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Golos+Text&display=swap');
 
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -7,7 +8,7 @@
 }
 
 body {
-    background: url(hood-via-gratefulvineyard.jpeg);
+    background: url(/hood-via-gratefulvineyard.JPEG);
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
