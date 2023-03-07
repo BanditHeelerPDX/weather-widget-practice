@@ -8,7 +8,7 @@
 }
 
 body {
-    background: url(/hood-via-gratefulvineyard.JPEG);
+    background-image: url(/hood-via-gratefulvineyard.JPEG);
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
